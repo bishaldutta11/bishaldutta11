@@ -132,19 +132,7 @@
 
 <br>
 
-## ── Where You're From ────────────────────────────────────
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=bishaldutta11&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" />
-
-<br><br>
-
-[![Visitors Map](https://api.visitorbadge.io/api/visitors?path=bishaldutta11&labelColor=%237F77DD&countColor=%231D9E75&style=for-the-badge&label=TOTAL+VISITORS)](https://visitorbadge.io/status?path=bishaldutta11)
-
-</div>
-
-<br>
 
 ## ── Contribution Snake ───────────────────────────────────
 
