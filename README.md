@@ -9,6 +9,8 @@
 [![Portfolio](https://img.shields.io/badge/↗_bishal.dev-000?style=for-the-badge)](https://portfolio-drab-alpha-24.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-dutta-26780a28b)
 [![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishaldutta661@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bishaldutta_11?igsh=MTJhODJlcm5raWdtaQ==)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/6QHWMXF4KJHSO1)
 
 </div>
 
@@ -118,14 +120,53 @@
 
 <br>
 
----
+## ── Education ────────────────────────────────────────────
+
+<br>
+
+| 🎓 Degree | 🏫 Institution | 📅 Year |
+|---|---|:---:|
+| B.Tech — Computer Science & Engineering | *Your College Name* | 2022 – 2026 |
+
+> 📌 &nbsp; Feel free to update with your actual institution name!
+
+<br>
+
+## ── Where You're From ────────────────────────────────────
 
 <div align="center">
 
-*✦ &nbsp; Available for freelance & full-time &nbsp; ✦*
+<img src="https://profile-counter.glitch.me/bishaldutta11/count.svg" alt="Visitor Count" />
+
+<br><br>
+
+[![Visitors Map](https://api.visitorbadge.io/api/visitors?path=bishaldutta11&labelColor=%237F77DD&countColor=%231D9E75&style=for-the-badge&label=TOTAL+VISITORS)](https://visitorbadge.io/status?path=bishaldutta11)
+
+</div>
+
+<br>
+
+## ── Contribution Snake ───────────────────────────────────
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishaldutta11/bishaldutta11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishaldutta11/bishaldutta11/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bishaldutta11/bishaldutta11/output/github-snake.svg" />
+</picture>
+
+</div>
+
+> ⚙️ &nbsp; **Snake setup required** — see instructions below ↓
+
+<br>
 
 **[bishaldutta661@gmail.com](mailto:bishaldutta661@gmail.com)**
 
 <img src="https://komarev.com/ghpvc/?username=bishaldutta11&color=1D9E75&style=flat-square&label=profile+views" />
 
 </div>
+
+
+
