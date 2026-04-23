@@ -136,7 +136,7 @@
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/bishaldutta11/count.svg" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=bishaldutta11&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" />
 
 <br><br>
 
@@ -158,7 +158,7 @@
 
 </div>
 
-> ⚙️ &nbsp; **Snake setup required** — see instructions below ↓
+
 
 <br>
 
@@ -167,6 +167,5 @@
 <img src="https://komarev.com/ghpvc/?username=bishaldutta11&color=1D9E75&style=flat-square&label=profile+views" />
 
 </div>
-
 
 
