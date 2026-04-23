@@ -126,9 +126,11 @@
 
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |---|---|:---:|
-| B.Tech — Computer Science & Engineering | *Your College Name* | 2022 – 2026 |
+| B.Tech — Computer Science & Technology | Institute of Engineering and Management | 2023 – 2027 |
+| ISC    — Higher Secondary Examination  |                Holy Home                |    2022     |
+| ICSE   — Secondary Examination         |                Holy Home                |    2020     |
 
-> 📌 &nbsp; Feel free to update with your actual institution name!
+
 
 <br>
 
