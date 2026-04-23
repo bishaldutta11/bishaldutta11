@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=1D9E75&center=true&vCenter=true&width=435&lines=AI+%2F+ML+Engineer;Full-Stack+Developer;Creative+Technologist;Open+to+Opportunities+✦" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F77DD,100:1D9E75&height=180&section=header&text=Bishal%20Dutta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20%C2%B7%20Creative%20Technologist&descSize=16&descAlignY=75&descColor=ffffffbb" />
 
 # Bishal Dutta
 
