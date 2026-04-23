@@ -128,8 +128,6 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=bishaldutta11&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" />
-&nbsp;
-[![Followers](https://img.shields.io/badge/FOLLOWERS-click_to_view-1D9E75?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/bishaldutta11?tab=followers)
 
 </div>
 
