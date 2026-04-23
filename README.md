@@ -14,14 +14,12 @@
 
 <br>
 
-```
- ╔══════════════════════════════════════════════════════════╗
- ║  "Results-driven engineer with a blend of creativity     ║
- ║   and technical proficiency. Obsessed with the           ║
- ║   intersection of AI, semantic segmentation,             ║
- ║   and real-world impact."                                ║
- ╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+*" Results-driven engineer with a blend of creativity and technical proficiency.*
+*Obsessed with the intersection of AI, semantic segmentation, and real-world impact. "*
+
+</div>
 
 <br>
 
