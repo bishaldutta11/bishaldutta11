@@ -129,7 +129,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=bishaldutta11&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" />
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/bishaldutta11?style=for-the-badge&color=1D9E75&labelColor=0d1117&label=FOLLOWERS)](https://github.com/bishaldutta11?tab=followers)
+[![Followers](https://img.shields.io/github/followers/bishaldutta11?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0d1117&color=1D9E75)](https://github.com/bishaldutta11?tab=followers)
 
 </div>
 
