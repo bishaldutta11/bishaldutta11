@@ -31,11 +31,11 @@
 
 <div align="center">
 
-|  🧠 AI / ML  |  🌐 Full-Stack  |  🎨 Creative Dev  |  📡 IoT  |
-|:---:|:---:|:---:|:---:|
-| Deep Learning | React · Node.js | Three.js · GSAP | Smart Systems |
-| Computer Vision | Flask · Streamlit | Figma · UI/UX | Real-time Sensors |
-| Semantic Segmentation | Tailwind CSS | 3D Web Experiences | OpenCV |
+|  🧠 AI / ML  |  🌐 Full-Stack  |  🎨 Creative Dev  |
+|:---:|:---:|:---:|
+| Deep Learning | React · Node.js | Three.js · GSAP |
+| Computer Vision | Flask · Streamlit | Figma · UI/UX |
+| Semantic Segmentation | Tailwind CSS | 3D Web Experiences |
 
 </div>
 
@@ -70,27 +70,28 @@
 
 <br>
 
-> 🛰️ **[TerraSeg — LULC Satellite Segmentation](https://github.com/bishaldutta11/TERRASEG--LULC-satellite-image-segmentation.)**
-> Semantic segmentation of satellite imagery — pixels classified into Buildings, Roads, Water & Vegetation for urban planning and environmental monitoring.
-> `ResU-Net` · `TensorFlow` · `OpenCV` · `Streamlit`
+| Project | Description | Tech Stack | Link |
+|---|---|---|:---:|
+| 🛰️ **TerraSeg** | Semantic segmentation of satellite imagery — classifying pixels into Buildings, Roads, Water & Vegetation for urban planning | `ResU-Net` `TensorFlow` `OpenCV` `Streamlit` | [![GitHub](https://img.shields.io/badge/Repo-20232A?style=flat-square&logo=github&logoColor=white)](https://github.com/bishaldutta11/TERRASEG--LULC-satellite-image-segmentation.) |
+| 🕵️ **Deepfake Detector** | CNN-powered system that classifies facial images as real or AI-generated with high accuracy | `CNN` `TensorFlow` `Keras` `Streamlit` | [![GitHub](https://img.shields.io/badge/Repo-20232A?style=flat-square&logo=github&logoColor=white)](https://github.com/bishaldutta11/deepfake-image-detection) |
+| 🌿 **Plant Disease AI** | Deep learning model detecting and classifying plant leaf diseases to help farmers act faster | `CNN` `TensorFlow` `NumPy` `Pandas` | [![GitHub](https://img.shields.io/badge/Repo-20232A?style=flat-square&logo=github&logoColor=white)](https://github.com/bishaldutta11/leaf-disease-) |
+| ♻️ **ECORA** | Smart waste system using AI-enabled bins + IoT sensors for real-time waste classification and monitoring | `React` `Node.js` `OpenCV` `IoT` | [![GitHub](https://img.shields.io/badge/Repo-20232A?style=flat-square&logo=github&logoColor=white)](https://github.com/bishaldutta11/ecora) |
 
----
+<br>
 
-> 🕵️ **[Deepfake Image Detection](https://github.com/bishaldutta11/deepfake-image-detection)**
-> CNN-powered system that classifies facial images as real or AI-generated with high accuracy.
-> `CNN` · `TensorFlow` · `Keras` · `Streamlit`
+<div align="center">
 
----
+<a href="https://portfolio-drab-alpha-24.vercel.app/">
+  <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Assets/github__cat.png" width="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Assets/github_cat.png" width="180"/>
+</a>
 
-> 🌿 **[Plant Disease Prediction](https://github.com/bishaldutta11/leaf-disease-)**
-> Deep learning model that detects plant leaf diseases by category — helping farmers act faster.
-> `CNN` · `TensorFlow` · `NumPy` · `Pandas`
+<br>
 
----
+[![View Portfolio](https://img.shields.io/badge/↗_View_My_Portfolio-7F77DD?style=for-the-badge&logoColor=white)](https://portfolio-drab-alpha-24.vercel.app/)
 
-> ♻️ **[ECORA — Smart Waste Management](https://github.com/bishaldutta11/ecora)**
-> AI-enabled bins that auto-classify waste + IoT sensors for real-time monitoring and reporting.
-> `React` · `Node.js` · `OpenCV` · `IoT`
+</div>
 
 <br>
 
