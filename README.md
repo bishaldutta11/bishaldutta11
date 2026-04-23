@@ -87,36 +87,11 @@
   <img src="https://raw.githubusercontent.com/VishalRaut2106/VishalRaut2106/main/Assets/github_cat.png" width="180"/>
 </a>
 
-<br>
+<br><br>
 
 [![View Portfolio](https://img.shields.io/badge/↗_View_My_Portfolio-7F77DD?style=for-the-badge&logoColor=white)](https://portfolio-drab-alpha-24.vercel.app/)
 
 </div>
-
-<br>
-
-## ── Stats ───────────────────────────────────────────────
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bishaldutta11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=7F77DD&text_color=8b949e&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishaldutta11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=8b949e" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=bishaldutta11&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=8b949e&dates=8b949e" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishaldutta11&bg_color=0d1117&color=1D9E75&line=7F77DD&point=ffffff&area=true&hide_border=true&area_color=7F77DD" />
-
-</div>
-
-<br>
-
-## ── Now ─────────────────────────────────────────────────
-
-- 🔬 &nbsp; Advancing satellite semantic segmentation models
-- 🌐 &nbsp; Building immersive 3D web with Three.js & WebGL  
-- 🤖 &nbsp; Pushing AI × IoT into real-world deployments
-- 📐 &nbsp; Crafting accessible, scalable design systems
 
 <br>
 
@@ -132,23 +107,17 @@
 
 <br>
 
-## ── Where You're From ────────────────────────────────────
+## ── Stats ───────────────────────────────────────────────
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=bishaldutta11&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" />
+<img src="https://github-readme-stats.vercel.app/api?username=bishaldutta11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=7F77DD&text_color=8b949e&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishaldutta11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=8b949e" height="170"/>
 
-<br><br>
+<img src="https://streak-stats.demolab.com?user=bishaldutta11&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=8b949e&dates=8b949e" />
 
-[![Visitors Map](https://api.visitorbadge.io/api/visitors?path=bishaldutta11&labelColor=%237F77DD&countColor=%231D9E75&style=for-the-badge&label=TOTAL+VISITORS)](https://visitorbadge.io/status?path=bishaldutta11)
-
-</div>
-
-<br>
-
-## ── Contribution Snake ───────────────────────────────────
-
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishaldutta11&bg_color=0d1117&color=1D9E75&line=7F77DD&point=ffffff&area=true&hide_border=true&area_color=7F77DD" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishaldutta11/bishaldutta11/output/github-snake-dark.svg" />
@@ -156,20 +125,23 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/bishaldutta11/bishaldutta11/output/github-snake.svg" />
 </picture>
 
-</div>
+<br>
 
-> ⚙️ &nbsp; **Snake setup required** — see instructions below ↓
+<img src="https://komarev.com/ghpvc/?username=bishaldutta11&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" />
+&nbsp;
+[![Followers](https://img.shields.io/github/followers/bishaldutta11?style=for-the-badge&color=1D9E75&labelColor=0d1117&label=FOLLOWERS)](https://github.com/bishaldutta11?tab=followers)
+
+</div>
 
 <br>
 
-**[bishaldutta661@gmail.com](mailto:bishaldutta661@gmail.com)**
-
-<img src="https://komarev.com/ghpvc/?username=bishaldutta11&color=1D9E75&style=flat-square&label=profile+views" />
-
-</div>
-
+---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6c85f6ff&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let%27s+collaborate+and+build+amazing+things+%F0%9F%9A%80;Always+open+to+new+opportunities+%F0%9F%92%BC;Happy+coding!+%E2%9C%A8" />
+
+<br>
 
 ### *" Code. Build. Innovate. "*
 
