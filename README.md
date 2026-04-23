@@ -127,14 +127,24 @@
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |---|---|:---:|
 | B.Tech — Computer Science & Technology | Institute of Engineering and Management | 2023 – 2027 |
-| ISC    — Higher Secondary Examination  |                Holy Home                |    2022     |
-| ICSE   — Secondary Examination         |                Holy Home                |    2020     |
-
-
+| ISC — Higher Secondary Examination | Holy Home | 2022 |
+| ICSE — Secondary Examination | Holy Home | 2020 |
 
 <br>
 
+## ── Where You're From ────────────────────────────────────
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bishaldutta11&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" />
+
+<br><br>
+
+[![Visitors Map](https://api.visitorbadge.io/api/visitors?path=bishaldutta11&labelColor=%237F77DD&countColor=%231D9E75&style=for-the-badge&label=TOTAL+VISITORS)](https://visitorbadge.io/status?path=bishaldutta11)
+
+</div>
+
+<br>
 
 ## ── Contribution Snake ───────────────────────────────────
 
@@ -148,7 +158,7 @@
 
 </div>
 
-
+> ⚙️ &nbsp; **Snake setup required** — see instructions below ↓
 
 <br>
 
@@ -159,3 +169,12 @@
 </div>
 
 
+<div align="center">
+
+### *" Code. Build. Innovate. "*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=130&section=footer&animation=fadeIn" />
+
+</div>
