@@ -136,14 +136,15 @@
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6c85f6ff&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let%27s+collaborate+and+build+amazing+things+%F0%9F%9A%80;Always+open+to+new+opportunities+%F0%9F%92%BC;Happy+coding!+%E2%9C%A8" />
-
 <br>
 
 ### *" Code. Build. Innovate. "*
 
 <br>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=6c85f6ff&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let%27s+collaborate+and+build+amazing+things+%F0%9F%9A%80;Always+open+to+new+opportunities+%F0%9F%92%BC;Happy+coding!+%E2%9C%A8" />
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=130&section=footer&animation=fadeIn" />
 
