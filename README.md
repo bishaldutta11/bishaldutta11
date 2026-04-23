@@ -35,16 +35,32 @@
 
 ## `> whoami`
 
-```python
-bishal = {
-    "name"      : "Bishal Dutta",
-    "role"      : "software engineer & creative developer",
-    "passion"   : ["AI/ML", "computer vision", "3D web experiences"],
-    "focus"     : "bridging machine learning and modern web applications",
-    "obsession" : "semantic segmentation · deep learning · IoT",
-    "status"    : "✦ available for freelance & full-time opportunities",
-}
-```
+<table>
+  <tr>
+    <td><b>🧑‍💻 Name</b></td>
+    <td>Bishal Dutta</td>
+  </tr>
+  <tr>
+    <td><b>💼 Role</b></td>
+    <td>Software Engineer & Creative Developer</td>
+  </tr>
+  <tr>
+    <td><b>❤️ Passion</b></td>
+    <td>AI/ML · Computer Vision · 3D Web Experiences</td>
+  </tr>
+  <tr>
+    <td><b>🎯 Focus</b></td>
+    <td>Bridging machine learning and modern web applications</td>
+  </tr>
+  <tr>
+    <td><b>🔬 Obsession</b></td>
+    <td>Semantic segmentation · Deep learning · IoT</td>
+  </tr>
+  <tr>
+    <td><b>✦ Status</b></td>
+    <td>Available for freelance & full-time opportunities</td>
+  </tr>
+</table>
 
 ---
 
@@ -109,12 +125,10 @@ bishal = {
 
 ## `> currently --building`
 
-```bash
-→  pushing the limits of semantic segmentation on satellite imagery
-→  crafting immersive 3D web experiences with Three.js & WebGL
-→  exploring the edge of AI × real-world IoT systems
-→  designing accessible, scalable UI/UX systems
-```
+- 🔬 &nbsp; Pushing the limits of semantic segmentation on satellite imagery
+- 🌐 &nbsp; Crafting immersive 3D web experiences with Three.js & WebGL
+- 🤖 &nbsp; Exploring the edge of AI × real-world IoT systems
+- 📐 &nbsp; Designing accessible, scalable UI/UX systems
 
 ---
 
